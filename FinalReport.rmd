@@ -1,6 +1,6 @@
 ---
 title: "GSS challange"
-author: "Dawn Bradford!"
+author: "Dawn Bradford"
 date: "Spring 2021"
 output: html_document
 ---
